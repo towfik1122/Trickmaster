@@ -154,7 +154,7 @@ def fuck():
     print(' [+] CP Ids saved in INNOCENT/CP.txt')
     print('==================================================')
 TOWFIK(uid,pwx,tl)
- for ps in pwx:
+ 
             pro = random.choice(ugen)
             session = requests.Session()
             sys.stdout.write('\r\033[1;92m[INNOCENT]--[%s/%s]--[OK-%s]~[CP-%s] \r'%(loop,tl,len(oks),len(cps))),
