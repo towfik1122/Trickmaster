@@ -154,7 +154,7 @@ def fuck():
     print(' [+] CP Ids saved in INNOCENT/CP.txt')
     print('==================================================')
 TOWFIK(uid,pwx,tl)
-    global loop
+ 
     global cps
     global oks
     global proxy
