@@ -1,5 +1,3 @@
-#Script         
-#    Respotary   Star  
 #----------------------------------------------------------------------------------------------------------
 #CREATE BY : TOWFIK WASIM CHOWDHURY 
 #WHATSAPP : +8801889846313
@@ -155,7 +153,7 @@ def fuck():
     print(' [+] OK Ids saved in INNOCENT/OK.txt')
     print(' [+] CP Ids saved in INNOCENT/CP.txt')
     print('==================================================')
-TOWFIK(uid,pwx,tl):
+TOWFIK(uid,pwx,tl)
     global loop
     global cps
     global oks
