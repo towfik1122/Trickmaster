@@ -154,10 +154,6 @@ def fuck():
     print(' [+] CP Ids saved in INNOCENT/CP.txt')
     print('==================================================')
 TOWFIK(uid,pwx,tl)
- 
-    global cps
-    global oks
-    global proxy
     try:
         for ps in pwx:
             pro = random.choice(ugen)
